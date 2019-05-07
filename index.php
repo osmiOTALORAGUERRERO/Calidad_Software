@@ -1,3 +1,3 @@
 
 
-<meta http-equiv="refresh" content="10; url=localhost/Calidad/FrontEnd/views/index.php">
+<meta http-equiv="refresh" content="10; url=FrontEnd/views/index.php">
